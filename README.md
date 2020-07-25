@@ -20,18 +20,18 @@ Reactivities(https://github.com/SKarakayaa/Reactivities)
 
 ## Know / Using 🧠
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"/></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg"/></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"/></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"/></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/redux/redux-original.svg"/></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg"/></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/512px-React-icon.svg.png"/></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/C_Sharp_logo.svg/455px-C_Sharp_logo.svg.png" /></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/600px-JavaScript-logo.png"/></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/512px-HTML5_logo_and_wordmark.svg.png"/></a></code>
+<code><a><img height="50" src="https://cdn.iconscout.com/icon/free/png-256/redux-283024.png"/></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/></a></code>
 <code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/></a></code>
 
 ## Learn / Progress / Interesting
 <code><a><img height="50" src="https://cdn.worldvectorlogo.com/logos/mobx.svg"></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/typescript/typescript-original.svg"/></a></code>
-<code><a><img height="50" src="https://konpa.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg"/></a></code>
+<code><a><img height="50" src="https://www.tc-web.it/wp-content/uploads/2019/12/TypeScript-logo.png"/></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"/></a></code>
 
   -CQRS
 
