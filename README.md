@@ -31,7 +31,7 @@ Reactivities(https://github.com/SKarakayaa/Reactivities)
 ## Learn / Progress / Interesting
 <code><a><img height="50" src="https://cdn.worldvectorlogo.com/logos/mobx.svg"></a></code>
 <code><a><img height="50" src="https://www.tc-web.it/wp-content/uploads/2019/12/TypeScript-logo.png"/></a></code>
-<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png"/></a></code>
+<code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png"/></a></code>
 
   -CQRS
 
