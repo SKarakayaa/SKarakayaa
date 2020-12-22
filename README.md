@@ -12,11 +12,11 @@ I'm working as a Software Developer at [YD Yazılım](https://ydyazilim.com/tr/)
 
 ## I'm currently working on 🔭
 
-<a href="https://github.com/SKarakayaa/MyRestaurant">My Restaurant UI</a> for practice
+<a href="https://github.com/SKarakayaa/MyRestaurantUI">My Restaurant UI</a> for practice
 
 ## I'am currently learning on 🌱
 
-Reactivities(https://github.com/SKarakayaa/Reactivities)
+<a href="https://github.com/SKarakayaa/Reactivities">Reactivities</a> and <a href="https://github.com/SKarakayaa/crwn-clothing">Crwn Cloth Shop</a>
 
 ## Know / Using 🧠
 <code><a href="https://www.microsoft.com/" target="_blank"><img height="50" src="https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"></a></code>
