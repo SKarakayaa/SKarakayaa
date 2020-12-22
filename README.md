@@ -6,13 +6,13 @@ I am Sefa Karakaya. I live in Ankara,Turkey.
 
 ![Sefa Karakaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skarakayaa&show_icons=true)
 
-## Job
+## Job 🏢
 
 I'm working as a Software Developer at [YD Yazılım](https://ydyazilim.com/tr/)
 
 ## I'm currently working on 🔭
 
-MusicShop(https://github.com/SKarakayaa/music-shop-api-netcore) and MyRestaurant(https://github.com/SKarakayaa/MyRestaurant) for practice
+<a href="https://github.com/SKarakayaa/MyRestaurant">My Restaurant UI</a> for practice
 
 ## I'am currently learning on 🌱
 
@@ -28,7 +28,7 @@ Reactivities(https://github.com/SKarakayaa/Reactivities)
 <code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/512px-Bootstrap_logo.svg.png"/></a></code>
 <code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg"/></a></code>
 
-## Learn / Progress / Interesting
+## Learn / Progress / Interesting 🧪📖
 <code><a><img height="50" src="https://cdn.worldvectorlogo.com/logos/mobx.svg"></a></code>
 <code><a><img height="50" src="https://www.tc-web.it/wp-content/uploads/2019/12/TypeScript-logo.png"/></a></code>
 <code><a><img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Microsoft_Azure_Logo.svg/187px-Microsoft_Azure_Logo.svg.png"/></a></code>
