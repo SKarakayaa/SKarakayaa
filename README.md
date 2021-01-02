@@ -3,7 +3,7 @@
 ### Welcome My GitHub Page 👋
 
 I am Sefa Karakaya. I live in Ankara,Turkey.
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=skarakayaa&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 ![Sefa Karakaya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=skarakayaa&show_icons=true)
 
 ## Job 🏢
