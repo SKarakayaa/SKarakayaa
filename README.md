@@ -8,7 +8,7 @@
 
 ## Job 🏢
 
-I'm working as a Software Developer at [YD Yazılım](https://ydyazilim.com/tr/)
+I'm working as a Software Developer at [KoçSistem](https://www.kocsistem.com.tr/)
 
 ## I'm currently working on 🔭
 
